@@ -1,28 +1,23 @@
 # 15_Health_Risk_JavaScript_D3 
 
 <p align="center">
-  <img src="6-Time_Keeps_On_Ticking.gif">
+  <img src="healthRiskImage.png">
 </p>
 
-In this assignment, Latyr is using GeoJSON to retrieve data from a website and show earthquakes using interactive maps.
+In this assignment, Latyr is analyzing the correlation between Health Risks and Demographics. The goal is to create a Scatter Plot that enables dataset selection for each axis.
 
 ## Data Source(s)
-* http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+https://data.census.gov/cedsci/all?q=2014%20ACS%201-year%20estimates&hidePreview=false&tid=ACSDP1Y2014.DP05&t=Counts,%20Estimates,%20and%20Projections&y=2014
 
 ## Pre-requisite(s)
 * Valid Mapbox account and key
 
 ## Methods
-* Connected to an API (Data source)
-* Retrieved data (GeoJSON format)
-* Used data to create maps
-* Plotted 2 datasets (Fault Lines + Earthquake locations)
+* Used a CSV file for data input
 
 ## Website or Links
-https://latyrt.github.io/17_Project_2/Global%20Page%20-%20Working%20Draft/global.html
+https://latyrt.github.io/15_JavaScript_D3/index.html
 
 ## Results
-
-![GitHub Logo](Map1.png)
-![GitHub Logo](Map.png)
+![GitHub Logo](Chart.png)
 
