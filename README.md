@@ -9,9 +9,6 @@ In this assignment, Latyr is analyzing the correlation between Health Risks and 
 ## Data Source(s)
 https://data.census.gov/cedsci/all?q=2014%20ACS%201-year%20estimates&hidePreview=false&tid=ACSDP1Y2014.DP05&t=Counts,%20Estimates,%20and%20Projections&y=2014
 
-## Pre-requisite(s)
-* Valid Mapbox account and key
-
 ## Methods
 * Used a CSV file for data input
 
