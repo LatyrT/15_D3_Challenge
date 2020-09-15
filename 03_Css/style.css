@@ -6,17 +6,17 @@
 }
 
 /* Sticky Footer rules (https://getbootstrap.com/examples/sticky-footer/) */
-html {
+/* html {
   position: relative;
   min-height: 100%;
-}
+}*/
 
-body {
-  /* Padding bottom by footer height */
+/* Padding bottom by footer height */
+/* body {
   padding-bottom: 80px;
-}
+}  */
 
-h1 {
+h1, h2, h3 {
   text-align: center;
 }
 
@@ -24,9 +24,13 @@ h1 {
   display: block;
   margin: 0 auto;
   height: 100%;
-  width: 70%;
+  width: 40%;
   position: relative;
 }
+
+/* #page-footer{
+  background-color: black;
+} */
 
 #separator {
   position: relative;
@@ -53,19 +57,11 @@ h1 {
   font-weight: bold;
 }
 
-#footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%; 
-  height: 10px;
-  padding-top: 20px;
-  padding-bottom: 40px;
-  text-align: center;
-  background-color: black;
-  color: white;
-}
 
-#footer p {
-  margin: 0;
-  font-size: 16px;
-}
+#page-footer {
+  /*   width: 100%;
+    height: 300px; */
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
