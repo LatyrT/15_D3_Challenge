@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="healthRiskImage.png">
-</p>
+</p> 
 
 In this assignment, Latyr is analyzing the correlation between Health Risks and Demographics. The goal is to create a Scatter Plot that enables dataset selection for each axis.
 
